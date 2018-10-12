@@ -1,3 +1,10 @@
+body{
+	background: linear-gradient(132deg, white, silver, gray);
+	background-size: 400% 400%;
+	animation: backgroundgradient 30s ease infinite;
+}
+
+
 .title{
 	width:100%;
 	max-width:900px;
